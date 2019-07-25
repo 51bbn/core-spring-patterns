@@ -1,6 +1,8 @@
 package io.spring2go.corespring.singleton_v1_1;
 
-// 静态初始化块单例
+/**
+ * 静态初始化块单例
+ */
 public class StaticBlockSingleton {
 	private static final StaticBlockSingleton INSTANCE;
 
